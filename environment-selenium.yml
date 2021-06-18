@@ -1,0 +1,9 @@
+name: selenium
+channels:
+  - defaults
+dependencies:
+  - selenium
+  - geckodriver
+  - requests
+  - pandas
+  - scikit-image
